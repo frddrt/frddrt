@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Frederico.
 - 🏡 I'm brazilian and I live in Goiânia.
 - 👀 I’m interested in development and new technologies.
-- 💪 Currently, I develop in JavaScript (Vanilla), ADVPL (an xBase language), TLPP (an evolution of ADVPL), Kotlin and Swift.  I've used PowerScript, PHP, Java, and a few others.
+- 💪 Currently, I develop in JavaScript (Vanilla), ADVPL (a xBase language), TLPP (an evolution of ADVPL), Kotlin and Swift.  I've used PowerScript, PHP, Java, and a few others.
 - 🌱 I’m currently learning React
 - 📫 How to reach me: frederico@ferracini.net.br
 
